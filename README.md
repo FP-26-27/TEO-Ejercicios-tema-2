@@ -48,7 +48,7 @@ Use el módulo `pyplot` de `matplotlib`, como en el siguiente ejemplo:
 from matplotlib import pyplot
 pyplot.title("Ejemplo de uso de pyplot")
 valores_x = [0, 1, 2] # Coordenada x de los puntos a mostrar
-valores_x = [5, 5, 1] # Coordenada y de los puntos a mostrar
+valores_y = [5, 5, 1] # Coordenada y de los puntos a mostrar
 pyplot.plot(valores_x, valores_y) # Dibuja la gráfica
 pyplot.show() # Se muestra la gráfica en una ventana
 ```
