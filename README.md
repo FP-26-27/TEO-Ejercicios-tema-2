@@ -64,7 +64,7 @@ Prueba la función pasándole la ruta ``data/monthly_csv.csv``.
 
 ### Ejercicio 7
 
-Añada el siguiente código al módulo ejercicio4.py, y a continuación trate de completar los huecos marcados con #TODO 
+Añada el siguiente código al módulo ejercicio7.py, y a continuación trate de completar los huecos marcados con #TODO 
  
 ```python
 from collections import namedtuple
